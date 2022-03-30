@@ -1,3 +1,6 @@
-# Day10_of_code
+# Day11_of_code
 
-*  The secret auction program
+* Functions in detail
+* Days in month
+* Formatted name
+* Calculator 
